@@ -79,7 +79,7 @@ class sale_order(models.Model):
             prev_name = self.name
             revno = self.revision_number
             self.write({'revision_number': revno + 1,
-                        'name': '%s-%02d' % (self.unrevisioned_name,
+                        'name': '%sR%02d' % (self.unrevisioned_name,
                                              revno + 1)
                         })
             defaults.update({'name': prev_name,
