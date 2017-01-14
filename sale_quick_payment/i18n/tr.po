@@ -20,7 +20,7 @@ msgstr ""
 #. module: sale_quick_payment
 #: field:pay.sale.order,amount:0
 msgid "Amount"
-msgstr ""
+msgstr "Tutar"
 
 #. module: sale_quick_payment
 #: view:pay.sale.order:sale_quick_payment.pay_sale_order_view
@@ -62,7 +62,7 @@ msgstr "ID"
 #: view:pay.sale.order:sale_quick_payment.pay_sale_order_view
 #: field:pay.sale.order,journal_id:0
 msgid "Journal"
-msgstr ""
+msgstr "Yevmiye"
 
 #. module: sale_quick_payment
 #: field:pay.sale.order,__last_update:0
@@ -87,43 +87,43 @@ msgstr ""
 #. module: sale_quick_payment
 #: view:pay.sale.order:sale_quick_payment.pay_sale_order_view
 msgid "Pay"
-msgstr ""
+msgstr "Öde"
 
 #. module: sale_quick_payment
 #: view:pay.sale.order:sale_quick_payment.pay_sale_order_view
 msgid "Pay And Confirm Order"
-msgstr ""
+msgstr "Öde ve Siparişi Onayla"
 
 #. module: sale_quick_payment
 #: model:ir.actions.act_window,name:sale_quick_payment.open_pay_sale_order
 #: view:pay.sale.order:sale_quick_payment.pay_sale_order_view
 msgid "Pay Sale Order"
-msgstr ""
+msgstr "Siparişi Öde"
 
 #. module: sale_quick_payment
 #: field:pay.sale.order,date:0
 msgid "Payment Date"
-msgstr ""
+msgstr "Ödeme Tarihi"
 
 #. module: sale_quick_payment
 #: view:sale.order:sale_quick_payment.sale_order_view_form
 msgid "Register Payments"
-msgstr ""
+msgstr "Ödemleri Kaydet"
 
 #. module: sale_quick_payment
 #: model:sale.exception,name:sale_quick_payment.must_be_paid
 msgid "Sale order must be paid before validation"
-msgstr ""
+msgstr "Satış sipariş onaydan önce onaylanmalı"
 
 #. module: sale_quick_payment
 #: model:sale.exception,description:sale_quick_payment.must_be_paid
 msgid "The sale order must be paid before the validation. Please fix it"
-msgstr ""
+msgstr "Satış siparişi onaydan önce ödenmeli. Lütfen düzeltin"
 
 #. module: sale_quick_payment
 #: model:ir.model,name:sale_quick_payment.model_pay_sale_order
 msgid "Wizard to generate a payment from the sale order"
-msgstr ""
+msgstr "Siparişe ödeme kaydetmek için sihirbaz"
 
 #. module: sale_quick_payment
 #: view:pay.sale.order:sale_quick_payment.pay_sale_order_view
