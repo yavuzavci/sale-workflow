@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sale-workflow (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-24 04:49+0000\n"
-"PO-Revision-Date: 2016-12-27 08:21+0000\n"
+"POT-Creation-Date: 2017-04-04 03:01+0000\n"
+"PO-Revision-Date: 2017-04-21 13:31+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/oca/OCA-sale-workflow-8-0/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -107,7 +107,7 @@ msgstr "Creat el"
 #: field:sale.order.line.task.materials,display_name:0
 #: field:sale.order.line.task.work,display_name:0
 msgid "Display Name"
-msgstr ""
+msgstr "Veure el nom"
 
 #. module: sale_service_project
 #: code:addons/sale_service_project/models/hr_timesheet_invoice.py:57
@@ -153,7 +153,7 @@ msgstr "Factura"
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_account_invoice_line
 msgid "Invoice Line"
-msgstr ""
+msgstr "Línia factura"
 
 #. module: sale_service_project
 #: field:project.task,invoice_exists:0
@@ -182,7 +182,7 @@ msgstr ""
 #: field:sale.order.line.task.materials,__last_update:0
 #: field:sale.order.line.task.work,__last_update:0
 msgid "Last Modified on"
-msgstr ""
+msgstr "Darrera modificació el"
 
 #. module: sale_service_project
 #: field:product.price.service.wizard,write_uid:0
@@ -231,7 +231,7 @@ msgstr ""
 #. module: sale_service_project
 #: field:product.task.work,name:0 field:sale.order.line.task.work,name:0
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: sale_service_project
 #: field:sale.order.line.task.materials,order_line_id:0
@@ -270,7 +270,7 @@ msgstr ""
 #: field:product.task.materials,product_id:0
 #: field:product.task.work,product_id:0
 msgid "Product"
-msgstr ""
+msgstr "Producte"
 
 #. module: sale_service_project
 #: model:ir.actions.act_window,name:sale_service_project.act_view_product_task_materials
@@ -285,7 +285,7 @@ msgstr ""
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Plantilla del producte"
 
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_project_project
@@ -302,7 +302,7 @@ msgstr ""
 #: field:product.task.materials,quantity:0
 #: field:sale.order.line.task.materials,quantity:0
 msgid "Quantity"
-msgstr ""
+msgstr "Quantitat"
 
 #. module: sale_service_project
 #: field:account.invoice.line,sale_order_lines:0
@@ -312,12 +312,12 @@ msgstr ""
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "Comandes de venda"
 
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "Línia de comanda de vendes"
 
 #. module: sale_service_project
 #: view:product.price.service.wizard:sale_service_project.wiz_compute_task_price
@@ -329,7 +329,7 @@ msgstr ""
 #: field:sale.order.line.task.materials,sequence:0
 #: field:sale.order.line.task.work,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Seqüència"
 
 #. module: sale_service_project
 #: model:product.template,name:sale_service_project.product_product_oil_product_template
@@ -380,7 +380,7 @@ msgstr ""
 #: view:sale.order:sale_service_project.view_sale_order_line_form
 #: field:sale.order,task_ids:0 field:sale.order.line,task_ids:0
 msgid "Tasks"
-msgstr ""
+msgstr "Tasques "
 
 #. module: sale_service_project
 #: help:sale.order.line,auto_create_task:0

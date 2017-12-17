@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sale-workflow (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-11 16:48+0000\n"
-"PO-Revision-Date: 2016-09-09 12:25+0000\n"
+"POT-Creation-Date: 2017-04-04 03:00+0000\n"
+"PO-Revision-Date: 2017-04-25 10:39+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/oca/OCA-sale-workflow-8-0/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -41,7 +41,7 @@ msgstr ""
 #. module: sale_payment_method
 #: field:sale.order,residual:0
 msgid "Balance"
-msgstr ""
+msgstr "Balanç"
 
 #. module: sale_payment_method
 #: code:addons/sale_payment_method/sale.py:70
@@ -55,7 +55,7 @@ msgstr ""
 #: view:payment.method:sale_payment_method.payment_method_view_form
 #: field:payment.method,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Empresa"
 
 #. module: sale_payment_method
 #: view:sale.order:sale_payment_method.sale_order_view_form
@@ -85,7 +85,7 @@ msgstr ""
 #. module: sale_payment_method
 #: field:payment.method,display_name:0
 msgid "Display Name"
-msgstr ""
+msgstr "Veure el nom"
 
 #. module: sale_payment_method
 #: view:payment.method:sale_payment_method.payment_method_view_form
@@ -109,7 +109,7 @@ msgstr ""
 #. module: sale_payment_method
 #: field:payment.method,journal_id:0
 msgid "Journal"
-msgstr ""
+msgstr "Diari"
 
 #. module: sale_payment_method
 #: model:ir.model,name:sale_payment_method.model_account_move_line
@@ -124,7 +124,7 @@ msgstr ""
 #. module: sale_payment_method
 #: field:payment.method,__last_update:0
 msgid "Last Modified on"
-msgstr ""
+msgstr "Darrera modificació el"
 
 #. module: sale_payment_method
 #: field:payment.method,write_uid:0
@@ -139,7 +139,7 @@ msgstr "Darrera Actualització el"
 #. module: sale_payment_method
 #: field:payment.method,name:0
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: sale_payment_method
 #: view:sale.order:sale_payment_method.view_sales_order_filter
@@ -150,13 +150,13 @@ msgstr ""
 #: model:ir.model,name:sale_payment_method.model_payment_method
 #: field:sale.order,payment_method_id:0
 msgid "Payment Method"
-msgstr ""
+msgstr "Mètode de pagament"
 
 #. module: sale_payment_method
 #: view:payment.method:sale_payment_method.payment_method_view_form
 #: view:payment.method:sale_payment_method.payment_method_view_tree
 msgid "Payment Methods"
-msgstr ""
+msgstr "Mètodes de pagament"
 
 #. module: sale_payment_method
 #: model:ir.actions.act_window,name:sale_payment_method.act_payment_method_form
@@ -189,7 +189,7 @@ msgstr ""
 #. module: sale_payment_method
 #: model:ir.model,name:sale_payment_method.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "Comandes de venda"
 
 #. module: sale_payment_method
 #: field:account.move.line,sale_ids:0

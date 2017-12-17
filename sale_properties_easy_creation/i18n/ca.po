@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sale-workflow (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-11 16:48+0000\n"
-"PO-Revision-Date: 2016-09-09 12:25+0000\n"
+"POT-Creation-Date: 2017-06-10 06:01+0000\n"
+"PO-Revision-Date: 2017-06-08 20:49+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/oca/OCA-sale-workflow-8-0/language/ca/)\n"
 "MIME-Version: 1.0\n"
@@ -41,19 +41,19 @@ msgstr "Creat el"
 #. module: sale_properties_easy_creation
 #: field:mrp.property.formula,display_name:0
 msgid "Display Name"
-msgstr ""
+msgstr "Veure el nom"
 
 #. module: sale_properties_easy_creation
 #: code:addons/sale_properties_easy_creation/mrp_property_formula.py:43
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #. module: sale_properties_easy_creation
 #: view:mrp.property.formula:sale_properties_easy_creation.mrp_property_formula_form_view
 #: field:mrp.property.formula,formula_text:0
 msgid "Formula"
-msgstr ""
+msgstr "Fórmula"
 
 #. module: sale_properties_easy_creation
 #: code:addons/sale_properties_easy_creation/mrp_property_formula.py:44
@@ -79,7 +79,7 @@ msgstr "ID"
 #. module: sale_properties_easy_creation
 #: field:mrp.property.formula,__last_update:0
 msgid "Last Modified on"
-msgstr ""
+msgstr "Darrera modificació el"
 
 #. module: sale_properties_easy_creation
 #: field:mrp.property.formula,write_uid:0
@@ -94,7 +94,7 @@ msgstr "Darrera Actualització el"
 #. module: sale_properties_easy_creation
 #: field:mrp.property.formula,name:0
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #. module: sale_properties_easy_creation
 #: model:ir.actions.act_window,name:sale_properties_easy_creation.mrp_property_formula_action
@@ -110,7 +110,7 @@ msgstr ""
 #. module: sale_properties_easy_creation
 #: view:mrp.property.formula:sale_properties_easy_creation.view_mrp_property_formula_search
 msgid "Search"
-msgstr ""
+msgstr "Cercar"
 
 #. module: sale_properties_easy_creation
 #: field:mrp.property,value:0

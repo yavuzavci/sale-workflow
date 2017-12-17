@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sale-workflow (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-24 04:49+0000\n"
-"PO-Revision-Date: 2016-12-27 08:24+0000\n"
+"POT-Creation-Date: 2017-11-18 08:30+0000\n"
+"PO-Revision-Date: 2017-11-23 23:27+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Romanian (http://www.transifex.com/oca/OCA-sale-workflow-8-0/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. module: sale_service_project
 #: view:product.price.service.wizard:sale_service_project.wiz_compute_task_price
 msgid "Accept"
-msgstr ""
+msgstr "Acceptă"
 
 #. module: sale_service_project
 #: field:project.task,all_invoiced:0
@@ -231,7 +231,7 @@ msgstr ""
 #. module: sale_service_project
 #: field:product.task.work,name:0 field:sale.order.line.task.work,name:0
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 #. module: sale_service_project
 #: field:sale.order.line.task.materials,order_line_id:0
@@ -262,7 +262,7 @@ msgstr ""
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_procurement_order
 msgid "Procurement"
-msgstr ""
+msgstr "Aprovizionare"
 
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_product_product
@@ -270,7 +270,7 @@ msgstr ""
 #: field:product.task.materials,product_id:0
 #: field:product.task.work,product_id:0
 msgid "Product"
-msgstr ""
+msgstr "Produs"
 
 #. module: sale_service_project
 #: model:ir.actions.act_window,name:sale_service_project.act_view_product_task_materials
@@ -285,7 +285,7 @@ msgstr ""
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_product_template
 msgid "Product Template"
-msgstr ""
+msgstr "Produs șablon"
 
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_project_project
@@ -302,7 +302,7 @@ msgstr ""
 #: field:product.task.materials,quantity:0
 #: field:sale.order.line.task.materials,quantity:0
 msgid "Quantity"
-msgstr ""
+msgstr "Cantitate"
 
 #. module: sale_service_project
 #: field:account.invoice.line,sale_order_lines:0
@@ -312,12 +312,12 @@ msgstr ""
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "Comandă vânzare"
 
 #. module: sale_service_project
 #: model:ir.model,name:sale_service_project.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "Linie comandă vânzare"
 
 #. module: sale_service_project
 #: view:product.price.service.wizard:sale_service_project.wiz_compute_task_price
@@ -329,7 +329,7 @@ msgstr ""
 #: field:sale.order.line.task.materials,sequence:0
 #: field:sale.order.line.task.work,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Secventa"
 
 #. module: sale_service_project
 #: model:product.template,name:sale_service_project.product_product_oil_product_template
