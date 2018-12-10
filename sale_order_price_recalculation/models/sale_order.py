@@ -27,13 +27,14 @@ class SaleOrder(models.Model):
         """
         for line in self.mapped('order_line'):
             order = line.order_id
-            res = line.product_id_change(
+            res = line.with_context({'skip_product_attributes':True}).product_id_change(
                 order.pricelist_id.id, line.product_id.id,
                 qty=line.product_uom_qty, uom=line.product_uom.id,
                 qty_uos=line.product_uos_qty, uos=line.product_uos.id,
                 name=line.name, partner_id=order.partner_id.id, lang=False,
                 update_tax=True, date_order=order.date_order, packaging=False,
                 fiscal_position=order.fiscal_position.id, flag=price)
+               
             if price:
                 line.write(res['value'])
             else:
