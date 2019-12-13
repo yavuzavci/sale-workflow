@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-14 05:46+0000\n"
-"PO-Revision-Date: 2017-01-14 05:46+0000\n"
+"POT-Creation-Date: 2019-12-13 16:54+0000\n"
+"PO-Revision-Date: 2019-12-13 16:54+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -176,7 +176,7 @@ msgstr "Python code executed to check if the exception apply or not. The code mu
 #. module: sale_exceptions
 #: field:sale.exception.confirm,sale_id:0
 msgid "Sale"
-msgstr "Sale"
+msgstr "Satış"
 
 #. module: sale_exceptions
 #: view:sale.exception:sale_exceptions.view_sale_exception_tree
@@ -192,7 +192,7 @@ msgstr "Sipariş İstisnası Ayarı"
 #: model:ir.model,name:sale_exceptions.model_sale_exception
 #: view:sale.exception.confirm:sale_exceptions.view_sale_exception_confirm
 msgid "Sale Exceptions"
-msgstr "Sale Exceptions"
+msgstr "Satış İstisnaları"
 
 #. module: sale_exceptions
 #: selection:sale.exception,model:0
